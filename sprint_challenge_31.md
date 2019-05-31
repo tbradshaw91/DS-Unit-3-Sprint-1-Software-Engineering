@@ -270,6 +270,10 @@ career here, you'll have to answer the following:
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
+ANSWER #1: Having clean and simplified code is a beautiful thing. It shows you know your work and makes it easy for any future readers to understand. You can seal the deal by adding comments to your work to show thought process and reference back to. Nothing is more annoying than cluttered code that looks over complicated. 
+
+ANSWER #2: Containers are a solution to the problem of how to get software to run reliably when moved from one computing environment to another. Containers help to make a more clean and reproducible environment to work in.
+
 ### Part 8 - Turn it in!
 
 Add all the files you wrote (`acme.py`, `acme_report.py`, and `acme_test.py`),
